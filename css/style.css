@@ -9,6 +9,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 #bodyId {
+  padding-left: 5px;
   background-color: honeydew;
 }
 .search-field {
